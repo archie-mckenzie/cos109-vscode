@@ -1,0 +1,46 @@
+body, table {
+    font-family:  Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    font-size: 14px;
+    padding: 20px 20px 20px 20px;
+  }
+  table { padding: 10px 10px 10px 10px; }
+  p, br {
+    padding-left: 15px;
+  }
+  h2, h3 {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: blue
+  }
+  h4 {
+    font-size: 15px;
+    font-weight: 700;
+    color: blue
+  }
+  .g {
+    background-color: #f0fff0;
+  }
+  .y {
+    background-color: #ffff55;
+  }
+  pre {
+    display: block;
+    padding: 9.5px;
+    margin: 5px 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #111;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #fffcfb;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  code, kbd, pre, samp {
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+  }
+  ul.li {
+    list-style-type:square;
+  }
